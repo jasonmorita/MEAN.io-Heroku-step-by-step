@@ -3,7 +3,7 @@
 
 Download mean.io, unzip, cd to directory. Be sure to get all hidden files. 
 
-> "npm install" 
+> npm install
 
 Set up Heroku account
 
